@@ -47,8 +47,6 @@ content:
     content:
       - layout: left
         title: 지마켓
-        link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: January 2022 - Present
         quote: >
@@ -57,8 +55,6 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
       - layout: left
         title: 삼일회계법인
-        link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: July 2018 - December 2021
         quote: >
@@ -67,14 +63,14 @@ content:
           Mollit minim aliqua laborum deserunt. Exercitation amet eiusmod proident et fugiat labore dolor non magna. Deserunt et dolor Lorem et cupidatat mollit amet Lorem aute ipsum. Amet in ullamco esse veniam cillum elit. Deserunt id in reprehenderit aliqua ullamco aliquip consectetur qui consectetur mollit aliqua quis. Exercitation velit culpa aliqua deserunt nisi.
       - layout: left
         title: APEC 기후센터
-        link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: April 2017 - June 2018
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           Mollit minim aliqua laborum deserunt. Exercitation amet eiusmod proident et fugiat labore dolor non magna. Deserunt et dolor Lorem et cupidatat mollit amet Lorem aute ipsum. Amet in ullamco esse veniam cillum elit. Deserunt id in reprehenderit aliqua ullamco aliquip consectetur qui consectetur mollit aliqua quis. Exercitation velit culpa aliqua deserunt nisi.
+          - Mollit minim aliqua laborum deserunt. Exercitation amet eiusmod proident et fugiat labore dolor non magna. Deserunt et dolor Lorem et cupidatat mollit amet Lorem aute ipsum. Amet in ullamco esse veniam cillum elit. Deserunt id in reprehenderit aliqua ullamco aliquip consectetur qui consectetur mollit aliqua quis. Exercitation velit culpa aliqua deserunt nisi.
+          - Mollit minim aliqua laborum deserunt. Exercitation amet eiusmod proident et fugiat labore dolor non magna. Deserunt et dolor Lorem et cupidatat mollit amet Lorem aute ipsum. Amet in ullamco esse veniam cillum elit. Deserunt id in reprehenderit aliqua ullamco aliquip consectetur qui consectetur mollit aliqua quis. Exercitation velit culpa aliqua deserunt nisi.
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
