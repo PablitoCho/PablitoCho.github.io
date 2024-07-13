@@ -1,5 +1,5 @@
 # Site
-repository: PablitoCho/resume-wonil
+repository: PablitoCho/PablitoCho.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -97,6 +97,7 @@ content:
       - Rock climbing
       - Gaming
       - Knitting
+      - ███████
 
 # Footer
 footer_show_references: false
